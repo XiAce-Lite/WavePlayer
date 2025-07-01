@@ -1,0 +1,31 @@
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_API
+#define JUCE_API __declspec (dllexport)
+#define JUCE_API __declspec (dllimport)
+#define JUCE_API __attribute__ ((visibility ("default")))
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR(className) JUCE_DECLARE_NON_COPYABLE(className) JUCE_LEAK_DETECTOR(className)
